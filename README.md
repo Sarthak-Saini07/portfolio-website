@@ -78,6 +78,7 @@ portfolio-website/
 ├── script.js           # All JavaScript logic
 ├── profile.jpg         # Profile image (root folder)
 └── README.md           # Project documentation
+```
 
 | Concept          | Implementation                          |
 | ---------------- | --------------------------------------- |
@@ -173,4 +174,5 @@ Font Awesome for icon support
 Web development community for inspiration
 
 Open-source documentation and resources
+
 
