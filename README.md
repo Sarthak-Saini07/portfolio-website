@@ -91,7 +91,7 @@ portfolio-website/
 | Variables        | Theme colors using `:root`              |
 | Responsive Units | `rem`, `%`, `vw`, `vh`                  |
 
-🔧 Installation & Setup
+## 🔧 Installation & Setup
 Clone the repository
 git clone https://github.com/Sarthak-Saini07/portfolio-website.git
 cd portfolio-website
@@ -102,7 +102,7 @@ OR
 
 Use Live Server extension in VS Code
 
-📚 What I Learned
+##📚 What I Learned
 
 Through this project, I gained hands-on experience with:
 
@@ -122,57 +122,58 @@ Deploying static websites using GitHub Pages
 
 Organizing CSS and JS for scalability
 
-📝 Git Workflow
+##📝 Git Workflow
 
 This project follows proper Git practices:
 
 Commits Made
 
-✅ Initial project structure setup
+-✅ Initial project structure setup
 
-✅ Add sticky glass navbar
+-✅ Add sticky glass navbar
 
-✅ Build hero and skills section
+-✅ Build hero and skills section
 
-✅ Create about and projects pages
+-✅ Create about and projects pages
 
-✅ Add contact form with validation
+-✅ Add contact form with validation
 
-✅ Implement responsive design
+-✅ Implement responsive design
 
-✅ UI polish and documentation
+-✅ UI polish and documentation
 
-🚀 Future Enhancements
+##🚀 Future Enhancements
 
-Light/Dark mode toggle
+-Light/Dark mode toggle
 
-Backend integration for contact form
+-Backend integration for contact form
 
-Scroll-based animations
+-Scroll-based animations
 
-SEO optimization
+-SEO optimization
 
-Accessibility improvements
+-Accessibility improvements
 
-Downloadable resume section
+-Downloadable resume section
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Sarthak Saini
 Cloud Computing student | DevOps (Open Minor) | MERN Stack Trainee
 
 GitHub: https://github.com/Sarthak-Saini07
 
-📄 License
+##📄 License
 
 This project is open-source and intended for educational purposes
 
-🙏 Acknowledgments
+##🙏 Acknowledgments
 
 Font Awesome for icon support
 
 Web development community for inspiration
 
 Open-source documentation and resources
+
 
 
