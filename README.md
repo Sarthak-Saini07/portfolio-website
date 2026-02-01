@@ -136,7 +136,7 @@ cd portfolio-website
 ![Projects Page](images/projects.png)
 
 ### 📧 Contact Page
-![Contact page](images/contact.png)
+![Contact page](images/contactform.png)
 
 ## 📚 What I Learned
 
